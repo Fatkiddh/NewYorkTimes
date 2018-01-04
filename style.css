@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+}
+
+header {
+  width: 72%;
+  height: 20%;
+  background-color: white;
+  font-size: 50px;
+  text-align: center;
+  margin-top: 100px;
+  margin-left: 14%;
+  border: 1px solid black;
+
+}
+
+.container {
+  width: 72%;
+  background-color: white;
+  padding: 50px;
+  margin-top: 100px;
+  border: 1px solid black;
+
+}
+
+h3 {
+  align-self: baseline;
+}
